@@ -1,7 +1,7 @@
 # GamezoneDataset
 
 ## Data Cleaning
-![PowerQuery]<img src="Photos/PowerQuery" width="500">
+<img src="Photos/PowerQuery%20Process.jpg" width="500">
 
 📥 1. Loaded Orders Sheet
 
